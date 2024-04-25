@@ -5,6 +5,8 @@
 
 using namespace std;
 
+void prueba();
+
 int main(){
 	int array[5] = {2,3,1,5,4};
 	int i,j,aux;
@@ -31,5 +33,8 @@ int main(){
 	
 	getch();
 	return 0;
+}
+
+void prueba(){
 }
 
